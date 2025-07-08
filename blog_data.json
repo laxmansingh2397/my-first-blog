@@ -1,0 +1,46 @@
+[
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "author": 1,
+    "title": "my post title",
+    "text": "Hi there.\r\nHow are you.",
+    "created_date": "2025-07-07T12:47:39Z",
+    "published_date": "2025-07-08T04:52:56Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "author": 2,
+    "title": "another post title",
+    "text": "Hi, I am yuvraj, laxman's friend",
+    "created_date": "2025-07-07T12:48:48Z",
+    "published_date": "2025-07-08T04:52:56Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "author": 1,
+    "title": "My 4th post",
+    "text": "This is the body of the 4th post",
+    "created_date": "2025-07-08T04:47:56.579Z",
+    "published_date": "2025-07-08T05:08:12.537Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "author": 1,
+    "title": "Sample title",
+    "text": "This is a test and we are testing it",
+    "created_date": "2025-07-07T12:59:12Z",
+    "published_date": "2025-07-08T04:52:56Z"
+  }
+}
+]
